@@ -1,0 +1,5 @@
+==============================================================================
+[+] Azure
+==============================================================================
+site:*.blob.core.windows.net filetype:pdf
+site:*.blob.core.windows.net (filetype:doc OR filetype:ppt OR filetype:pps OR filetype:xls OR filetype:docx OR filetype:pptx OR filetype:ppsx OR filetype:xlsx OR filetype:sxw OR filetype:sxc OR filetype:sxi OR filetype:odt OR filetype:ods OR filetype:odg OR filetype:odp OR filetype:pdf OR filetype:wpd OR filetype:svg OR filetype:svgz OR filetype:indd OR filetype:rdp OR filetype:ica)
